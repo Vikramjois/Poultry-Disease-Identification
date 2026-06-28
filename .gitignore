@@ -1,0 +1,15 @@
+# Your Virtual Environment (Crucial!)
+poultry/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor settings (keeps your window layouts local)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
